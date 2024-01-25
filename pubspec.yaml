@@ -26,7 +26,6 @@ dependencies:
   faker: ^2.0.0
   flutter:
     sdk: flutter
-  google_fonts: ^2.1.0
   jiffy: ^4.1.0
 
 dev_dependencies:
