@@ -3,7 +3,7 @@ name: Flutter CI
 on:
   push:
     branches:
-      - main
+      - tutorial-001-base-ui-complete
 
 jobs:
   build:
